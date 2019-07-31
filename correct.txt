@@ -1,0 +1,1 @@
+app { packet_size=1500, burst_size=64, cw=reno }
